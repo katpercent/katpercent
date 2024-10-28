@@ -5,8 +5,8 @@
 &emsp;&ensp;3. [BlackOS](https://github.com/katpercent/BlackOS) (Time to finish it estimate: very*10 slow)  
 
 &emsp;School Project :  
-&emsp;&ensp;* EscapeGame (Time to finish it estimate: 1 month)  
+&emsp;&ensp;- EscapeGame (Time to finish it estimate: 1 month)  
   
 &emsp;Project ideas :  
-&emsp;&ensp;* Create a game with my game engine 3D.  
-&emsp;&ensp;* Create a cheat engine on the game i have created.
+&emsp;&ensp;- Create a game with my game engine 3D.  
+&emsp;&ensp;- Create a cheat engine on the game i have created.
