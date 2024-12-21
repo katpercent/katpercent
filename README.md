@@ -3,7 +3,3 @@
 &emsp;&ensp;1. [GameEngine3D](https://github.com/katpercent/GameEngine3D)  
 &emsp;&ensp;2. [bKompiler](https://github.com/katpercent/bKompiler)  
 &emsp;&ensp;3. [BlackOS](https://github.com/katpercent/BlackOS)  
-  
-&emsp;Project ideas :  
-&emsp;&ensp;- Create a game with my game engine 3D.  
-&emsp;&ensp;- Create a cheat engine on the game i have created.
