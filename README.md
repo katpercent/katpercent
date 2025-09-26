@@ -1,13 +1,13 @@
 # 👋 Hi, I’m [Badis Khelladi](https://www.linkedin.com/in/badis-khelladi-360656349/)   
 
 ### 💫 About Me
-I’m passionate about **low-level programming, game engines, compilers, and operating systems**.  
+I’m passionate about **cybersecurity, low-level programming, and exploring exciting fields such as game engines, compilers, and operating systems**.  
 Currently, I’m focusing on the following projects:  
 
-1. 🎮 [BKGameEngine](https://github.com/katpercent/BKGameEngine) — 3D/2D rendering engine with SDL2 & OpenCL  
-2. 🔐 [BlacKipher](https://github.com/katpercent/BlacKipher) — cryptography and security-focused project  
-3. ⚙️ [BKompiler](https://github.com/katpercent/BKompiler) — custom compiler experiments  
-4. 🖥️ [BKhaOS](https://github.com/katpercent/BKhaOS) — a minimalist operating system project  
+- 🎮 [BKGameEngine](https://github.com/katpercent/BKGameEngine) — 3D/2D rendering engine with SDL2 & OpenCL
+- 🔐 [BlacKipher](https://github.com/katpercent/BlacKipher) — cryptography and security-focused project  
+- ⚙️ [BKompiler](https://github.com/katpercent/BKompiler) — custom compiler experiments  
+- 🖥️ [BKhaOS](https://github.com/katpercent/BlacKhaOS) — a operating system project  
 
 ---
 
