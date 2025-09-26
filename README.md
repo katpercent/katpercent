@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Badis Khelladi  
+# 👋 Hi, I’m [Badis Khelladi](https://www.linkedin.com/in/badis-khelladi-360656349/)   
 
 ### 💫 About Me
 I’m passionate about **low-level programming, game engines, compilers, and operating systems**.  
@@ -19,12 +19,6 @@ Currently, I’m focusing on the following projects:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![CUDA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) 
-
----
-
-### 🌐 Connect with Me
-- GitHub: [katpercent](https://github.com/katpercent)  
-- LinkedIn: [Badis Khelladi](https://www.linkedin.com/in/badis-khelladi-360656349/)  
 
 ---
 
