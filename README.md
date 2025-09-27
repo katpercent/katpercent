@@ -1,7 +1,8 @@
 # 👋 Hi, I’m [Badis Khelladi](https://www.linkedin.com/in/badis-khelladi-360656349/)   
 
 ### 💫 About Me
-I’m passionate about **cybersecurity, low-level programming, and exploring exciting fields such as game engines, compilers, and operating systems**.  
+I’m passionate about **cybersecurity, low-level programming,  
+and exploring exciting fields such as game engines, compilers, and operating systems**.  
 Currently, I’m focusing on the following projects:  
 
 - 🎮 [BKGameEngine](https://github.com/katpercent/BKGameEngine) — 3D/2D rendering engine with SDL2 & OpenCL
