@@ -4,16 +4,16 @@
 I’m passionate about **cybersecurity, low-level programming,  
 and exploring exciting fields such as game engines, compilers, and operating systems**.  
 Currently, I’m focusing on the following projects:  
-- 🎮 [BKGameEngine](https://github.com/katpercent/BKGameEngine) — 3D/2D rendering engine with SDL2 & OpenCL
-- 🔐 [BlacKipher](https://github.com/katpercent/BlacKipher) — cryptography and security-focused project  
-- ⚙️ [BKompiler](https://github.com/katpercent/BKompiler) — custom compiler experiments  
-- 🖥️ [BKhaOS](https://github.com/katpercent/BlacKhaOS) — a operating system project  
+- 🎮 [BKGameEngine](https://github.com/katpercent/BKGameEngine){:target="_blank"} — 3D/2D rendering engine with SDL2 & OpenCL
+- 🔐 [BlacKipher](https://github.com/katpercent/BlacKipher){:target="_blank"} — cryptography and security-focused project  
+- ⚙️ [BKompiler](https://github.com/katpercent/BKompiler){:target="_blank"} — custom compiler experiments  
+- 🖥️ [BKhaOS](https://github.com/katpercent/BlacKhaOS){:target="_blank"} — a operating system project  
 
 ---
 
 ### 📚 Bibliography & Inspirations
 
 - Tomas Akenine-Möller, Eric Haines. *Real-Time Rendering, Second Edition*.
-- Moxie Marlinspike, Trevor Perrin. *[The Signal Protocol](https://signal.org/docs/)*.  
-- [The Tails Project](https://tails.net). *Tails: The Amnesic Incognito Live System*.  
-- The GNU Project. *[GNU Cobol](https://www.gnu.org/software/gnucobol/) — Free Open Source COBOL Compiler*.  
+- Moxie Marlinspike, Trevor Perrin. *[The Signal Protocol](https://signal.org/docs/){:target="_blank"}*.  
+- [The Tails Project](https://tails.net){:target="_blank"}. *Tails: The Amnesic Incognito Live System*.  
+- The GNU Project. *[GNU Cobol](https://www.gnu.org/software/gnucobol/){:target="_blank"} — Free Open Source COBOL Compiler*.  
