@@ -13,13 +13,7 @@ Currently, I’m focusing on the following projects:
 
 ### 📚 Bibliography & Inspirations
 
-- Tomas Akenine-Möller, Eric Haines. *Real-Time Rendering, Second Edition*.  
-  Natick, MA: A K Peters, 2002.  
-
+- Tomas Akenine-Möller, Eric Haines. *Real-Time Rendering, Second Edition*.
 - Moxie Marlinspike, Trevor Perrin. *[The Signal Protocol](https://signal.org/docs/)*.  
-  Open Whisper Systems, 2013–2016.  
-
 - [The Tails Project](https://tails.net). *Tails: The Amnesic Incognito Live System*.  
-  Live OS for privacy and anonymity.  
-
 - The GNU Project. *[GNU Cobol](https://www.gnu.org/software/gnucobol/) — Free Open Source COBOL Compiler*.  
