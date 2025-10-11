@@ -15,6 +15,7 @@ Currently, I’m focusing on the following projects:
 I also develop **automation and workflow tools** to improve productivity and optimize complex data pipelines:
  - [DeepFetch](https://github.com/katpercent/DeepFetch) — full automation pipeline combining **multimedia capture, OCR, and Whisper-based transcription**  
   - includes *Network fetch*, a Playwright-powered module for **detecting and logging video stream requests (m3u8, mp4, ts)** directly from web sessions  
+
 These tools reflect my passion for turning complex workflows into seamless automated systems, connecting software, AI, and data engineering in a practical way.  
 
 ---
